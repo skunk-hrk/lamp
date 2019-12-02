@@ -1,0 +1,4 @@
+#Sun Dec 01 18:05:54 JST 2019
+base.0=/Users/skunk/Desktop/ゲーム/OKARUTO-OTENTEN/okaruto-otenten/Temp/gradleOut/build/intermediates/transforms/dexMerger/release/0
+path.0=classes.dex
+renamed.0=classes.dex

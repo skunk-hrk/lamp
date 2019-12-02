@@ -1,0 +1,410 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/skunk/Desktop/ゲーム/OKARUTO-OTENTEN/okaruto-otenten/Temp/gradleOut/src/main/AndroidManifest.xml:2:1-22:12
+INJECTED from /Users/skunk/Desktop/ゲーム/OKARUTO-OTENTEN/okaruto-otenten/Temp/gradleOut/src/main/AndroidManifest.xml:2:1-22:12
+INJECTED from /Users/skunk/Desktop/ゲーム/OKARUTO-OTENTEN/okaruto-otenten/Temp/gradleOut/src/main/AndroidManifest.xml:2:1-22:12
+INJECTED from /Users/skunk/Desktop/ゲーム/OKARUTO-OTENTEN/okaruto-otenten/Temp/gradleOut/src/main/AndroidManifest.xml:2:1-22:12
+MERGED from [:androidx.arch.core.core-runtime-2.0.0:] /Users/skunk/.gradle/caches/transforms-2/files-2.1/b1c698f98302bac37a87989e0d03472e/AndroidManifest.xml:17:1-22:12
+MERGED from [:androidx.asynclayoutinflater.asynclayoutinflater-1.0.0:] /Users/skunk/.gradle/caches/transforms-2/files-2.1/80760b9736fdf6f2e1023489d71150aa/AndroidManifest.xml:17:1-22:12
+MERGED from [:androidx.browser.browser-1.0.0:] /Users/skunk/.gradle/caches/transforms-2/files-2.1/269515285c8d04fc55437014a16f0507/AndroidManifest.xml:17:1-22:12
+MERGED from [:androidx.coordinatorlayout.coordinatorlayout-1.0.0:] /Users/skunk/.gradle/caches/transforms-2/files-2.1/533dc9e2a91e597a251aea2366f44a93/AndroidManifest.xml:17:1-22:12
+MERGED from [:androidx.core.core-1.0.0:] /Users/skunk/.gradle/caches/transforms-2/files-2.1/49c6f273d1d85b1c6c28899cdf4e296a/AndroidManifest.xml:17:1-24:12
+MERGED from [:androidx.cursoradapter.cursoradapter-1.0.0:] /Users/skunk/.gradle/caches/transforms-2/files-2.1/e51fca7d264991df79e8e4b44045b21c/AndroidManifest.xml:17:1-22:12
+MERGED from [:androidx.customview.customview-1.0.0:] /Users/skunk/.gradle/caches/transforms-2/files-2.1/b09953f750a04fa592885f6b3e06ffdf/AndroidManifest.xml:17:1-22:12
+MERGED from [:androidx.documentfile.documentfile-1.0.0:] /Users/skunk/.gradle/caches/transforms-2/files-2.1/609fbed602d5bd5286d11ab70682a983/AndroidManifest.xml:17:1-22:12
+MERGED from [:androidx.drawerlayout.drawerlayout-1.0.0:] /Users/skunk/.gradle/caches/transforms-2/files-2.1/1cbda38c4175715253f9e11a2d7ad5ba/AndroidManifest.xml:17:1-22:12
+MERGED from [:androidx.fragment.fragment-1.0.0:] /Users/skunk/.gradle/caches/transforms-2/files-2.1/f9afd9a3799e7e2cd93d16feeca1680e/AndroidManifest.xml:17:1-22:12
+MERGED from [:androidx.interpolator.interpolator-1.0.0:] /Users/skunk/.gradle/caches/transforms-2/files-2.1/f9e8fd28bb6f7bf32e1ff196a61a00ca/AndroidManifest.xml:17:1-22:12
+MERGED from [:androidx.legacy.legacy-support-core-ui-1.0.0:] /Users/skunk/.gradle/caches/transforms-2/files-2.1/205ecfaf61d76176eb52c5e08761f20a/AndroidManifest.xml:17:1-22:12
+MERGED from [:androidx.legacy.legacy-support-core-utils-1.0.0:] /Users/skunk/.gradle/caches/transforms-2/files-2.1/9a8d64913bd6097260c9779b1fbcddb8/AndroidManifest.xml:17:1-22:12
+MERGED from [:androidx.lifecycle.lifecycle-livedata-2.0.0:] /Users/skunk/.gradle/caches/transforms-2/files-2.1/3c315ba7fd49fdb754713ecf6988f64d/AndroidManifest.xml:17:1-22:12
+MERGED from [:androidx.lifecycle.lifecycle-livedata-core-2.0.0:] /Users/skunk/.gradle/caches/transforms-2/files-2.1/8eeb73a9f82415d639d3a8818ced8a38/AndroidManifest.xml:17:1-22:12
+MERGED from [:androidx.lifecycle.lifecycle-runtime-2.0.0:] /Users/skunk/.gradle/caches/transforms-2/files-2.1/31004e639435a8df631bea09ebf2d404/AndroidManifest.xml:17:1-22:12
+MERGED from [:androidx.lifecycle.lifecycle-viewmodel-2.0.0:] /Users/skunk/.gradle/caches/transforms-2/files-2.1/28c6c253e785d89a23de4dc2e758b6a1/AndroidManifest.xml:17:1-22:12
+MERGED from [:androidx.loader.loader-1.0.0:] /Users/skunk/.gradle/caches/transforms-2/files-2.1/235251d41052990a8daebe03841d9f94/AndroidManifest.xml:17:1-22:12
+MERGED from [:androidx.localbroadcastmanager.localbroadcastmanager-1.0.0:] /Users/skunk/.gradle/caches/transforms-2/files-2.1/cb1bff3c3b6ba9c599dcf9218b7dfc34/AndroidManifest.xml:17:1-22:12
+MERGED from [:androidx.print.print-1.0.0:] /Users/skunk/.gradle/caches/transforms-2/files-2.1/2e8e015b7ae5686b57e4dfcc46af5d38/AndroidManifest.xml:17:1-22:12
+MERGED from [:androidx.slidingpanelayout.slidingpanelayout-1.0.0:] /Users/skunk/.gradle/caches/transforms-2/files-2.1/58129348951535d95b30c6763d2fd96f/AndroidManifest.xml:17:1-22:12
+MERGED from [:androidx.swiperefreshlayout.swiperefreshlayout-1.0.0:] /Users/skunk/.gradle/caches/transforms-2/files-2.1/79ce0c7ba1c37a08e28bfc8ebda8ca7c/AndroidManifest.xml:17:1-22:12
+MERGED from [:androidx.versionedparcelable.versionedparcelable-1.0.0:] /Users/skunk/.gradle/caches/transforms-2/files-2.1/3f92c951226265d5ba7e9d2c59695fed/AndroidManifest.xml:17:1-25:12
+MERGED from [:androidx.viewpager.viewpager-1.0.0:] /Users/skunk/.gradle/caches/transforms-2/files-2.1/bea0aa707b7eb44432c99d8c2b3ccdca/AndroidManifest.xml:17:1-22:12
+MERGED from [:com.google.android.gms.play-services-ads-18.2.0:] /Users/skunk/.gradle/caches/transforms-2/files-2.1/68283badd9b26f59c7260c6bb5b075de/AndroidManifest.xml:17:1-25:12
+MERGED from [:com.google.android.gms.play-services-ads-base-18.2.0:] /Users/skunk/.gradle/caches/transforms-2/files-2.1/fae3a878f96727c9b7cc02c0219eebd8/AndroidManifest.xml:2:1-9:12
+MERGED from [:com.google.android.gms.play-services-ads-identifier-17.0.0:] /Users/skunk/.gradle/caches/transforms-2/files-2.1/77a3eddbc85a891d7bd4a35ee3b11c2f/AndroidManifest.xml:17:1-24:12
+MERGED from [:com.google.android.gms.play-services-ads-lite-18.2.0:] /Users/skunk/.gradle/caches/transforms-2/files-2.1/408a735e3e6d26ced11fec93ec6f4abe/AndroidManifest.xml:17:1-27:12
+MERGED from [:com.google.android.gms.play-services-basement-17.0.0:] /Users/skunk/.gradle/caches/transforms-2/files-2.1/44ec28eb42e80b08f8ed42f467ca1a89/AndroidManifest.xml:17:1-28:12
+MERGED from [:com.google.android.gms.play-services-gass-18.2.0:] /Users/skunk/.gradle/caches/transforms-2/files-2.1/bdab7e82cd049e122fa82bcdf0f9f3a4/AndroidManifest.xml:2:1-9:12
+MERGED from [:com.google.android.gms.play-services-measurement-17.0.0:] /Users/skunk/.gradle/caches/transforms-2/files-2.1/84bb361df120c6b62d7060db41231b07/AndroidManifest.xml:17:1-55:12
+MERGED from [:com.google.android.gms.play-services-measurement-base-17.0.0:] /Users/skunk/.gradle/caches/transforms-2/files-2.1/1c2cf4579874aa0d2de4e03595de7aba/AndroidManifest.xml:2:1-9:12
+MERGED from [:com.google.android.gms.play-services-measurement-impl-17.0.0:] /Users/skunk/.gradle/caches/transforms-2/files-2.1/3007755c57361496ee2c1fea2e71a254/AndroidManifest.xml:17:1-40:12
+MERGED from [:com.google.android.gms.play-services-measurement-sdk-17.0.0:] /Users/skunk/.gradle/caches/transforms-2/files-2.1/3580f44c1260364d67419084d3d029cf/AndroidManifest.xml:17:1-25:12
+MERGED from [:com.google.android.gms.play-services-measurement-sdk-api-17.0.0:] /Users/skunk/.gradle/caches/transforms-2/files-2.1/680addff4b8d0aad998001fb1dce57fc/AndroidManifest.xml:17:1-40:12
+MERGED from [:com.google.android.gms.play-services-stats-17.0.0:] /Users/skunk/.gradle/caches/transforms-2/files-2.1/3a9ae5640ccba8740369e4dcfdb6e5ad/AndroidManifest.xml:2:1-9:12
+MERGED from [:googlemobileads-unity:] /Users/skunk/.gradle/caches/transforms-2/files-2.1/756780868f1ae98e2cc8044f866c67fc/AndroidManifest.xml:7:1-18:12
+MERGED from [:GoogleMobileAdsPlugin] /Users/skunk/Desktop/ゲーム/OKARUTO-OTENTEN/okaruto-otenten/Temp/gradleOut/GoogleMobileAdsPlugin/build/intermediates/library_manifest/release/AndroidManifest.xml:2:1-19:12
+INJECTED from /Users/skunk/Desktop/ゲーム/OKARUTO-OTENTEN/okaruto-otenten/Temp/gradleOut/src/main/AndroidManifest.xml:2:1-22:12
+INJECTED from /Users/skunk/Desktop/ゲーム/OKARUTO-OTENTEN/okaruto-otenten/Temp/gradleOut/src/main/AndroidManifest.xml:2:1-22:12
+INJECTED from /Users/skunk/Desktop/ゲーム/OKARUTO-OTENTEN/okaruto-otenten/Temp/gradleOut/src/main/AndroidManifest.xml:2:1-22:12
+	package
+		ADDED from /Users/skunk/Desktop/ゲーム/OKARUTO-OTENTEN/okaruto-otenten/Temp/gradleOut/src/main/AndroidManifest.xml:2:70-94
+		INJECTED from /Users/skunk/Desktop/ゲーム/OKARUTO-OTENTEN/okaruto-otenten/Temp/gradleOut/src/main/AndroidManifest.xml
+		INJECTED from /Users/skunk/Desktop/ゲーム/OKARUTO-OTENTEN/okaruto-otenten/Temp/gradleOut/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/skunk/Desktop/ゲーム/OKARUTO-OTENTEN/okaruto-otenten/Temp/gradleOut/src/main/AndroidManifest.xml
+		ADDED from /Users/skunk/Desktop/ゲーム/OKARUTO-OTENTEN/okaruto-otenten/Temp/gradleOut/src/main/AndroidManifest.xml:2:1-22:12
+		INJECTED from /Users/skunk/Desktop/ゲーム/OKARUTO-OTENTEN/okaruto-otenten/Temp/gradleOut/src/main/AndroidManifest.xml
+	xmlns:tools
+		ADDED from /Users/skunk/Desktop/ゲーム/OKARUTO-OTENTEN/okaruto-otenten/Temp/gradleOut/src/main/AndroidManifest.xml:2:95-141
+	android:versionCode
+		INJECTED from /Users/skunk/Desktop/ゲーム/OKARUTO-OTENTEN/okaruto-otenten/Temp/gradleOut/src/main/AndroidManifest.xml
+		ADDED from /Users/skunk/Desktop/ゲーム/OKARUTO-OTENTEN/okaruto-otenten/Temp/gradleOut/src/main/AndroidManifest.xml:2:1-22:12
+		INJECTED from /Users/skunk/Desktop/ゲーム/OKARUTO-OTENTEN/okaruto-otenten/Temp/gradleOut/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/skunk/Desktop/ゲーム/OKARUTO-OTENTEN/okaruto-otenten/Temp/gradleOut/src/main/AndroidManifest.xml:2:11-69
+	android:installLocation
+		ADDED from /Users/skunk/Desktop/ゲーム/OKARUTO-OTENTEN/okaruto-otenten/Temp/gradleOut/src/main/AndroidManifest.xml:2:142-182
+supports-screens
+ADDED from /Users/skunk/Desktop/ゲーム/OKARUTO-OTENTEN/okaruto-otenten/Temp/gradleOut/src/main/AndroidManifest.xml:3:3-163
+	android:largeScreens
+		ADDED from /Users/skunk/Desktop/ゲーム/OKARUTO-OTENTEN/okaruto-otenten/Temp/gradleOut/src/main/AndroidManifest.xml:3:78-105
+	android:smallScreens
+		ADDED from /Users/skunk/Desktop/ゲーム/OKARUTO-OTENTEN/okaruto-otenten/Temp/gradleOut/src/main/AndroidManifest.xml:3:21-48
+	android:normalScreens
+		ADDED from /Users/skunk/Desktop/ゲーム/OKARUTO-OTENTEN/okaruto-otenten/Temp/gradleOut/src/main/AndroidManifest.xml:3:49-77
+	android:xlargeScreens
+		ADDED from /Users/skunk/Desktop/ゲーム/OKARUTO-OTENTEN/okaruto-otenten/Temp/gradleOut/src/main/AndroidManifest.xml:3:106-134
+	android:anyDensity
+		ADDED from /Users/skunk/Desktop/ゲーム/OKARUTO-OTENTEN/okaruto-otenten/Temp/gradleOut/src/main/AndroidManifest.xml:3:135-160
+application
+ADDED from /Users/skunk/Desktop/ゲーム/OKARUTO-OTENTEN/okaruto-otenten/Temp/gradleOut/src/main/AndroidManifest.xml:4:3-16:17
+MERGED from [:androidx.core.core-1.0.0:] /Users/skunk/.gradle/caches/transforms-2/files-2.1/49c6f273d1d85b1c6c28899cdf4e296a/AndroidManifest.xml:22:5-89
+MERGED from [:androidx.core.core-1.0.0:] /Users/skunk/.gradle/caches/transforms-2/files-2.1/49c6f273d1d85b1c6c28899cdf4e296a/AndroidManifest.xml:22:5-89
+MERGED from [:androidx.versionedparcelable.versionedparcelable-1.0.0:] /Users/skunk/.gradle/caches/transforms-2/files-2.1/3f92c951226265d5ba7e9d2c59695fed/AndroidManifest.xml:22:5-23:19
+MERGED from [:androidx.versionedparcelable.versionedparcelable-1.0.0:] /Users/skunk/.gradle/caches/transforms-2/files-2.1/3f92c951226265d5ba7e9d2c59695fed/AndroidManifest.xml:22:5-23:19
+MERGED from [:com.google.android.gms.play-services-ads-base-18.2.0:] /Users/skunk/.gradle/caches/transforms-2/files-2.1/fae3a878f96727c9b7cc02c0219eebd8/AndroidManifest.xml:7:5-20
+MERGED from [:com.google.android.gms.play-services-ads-base-18.2.0:] /Users/skunk/.gradle/caches/transforms-2/files-2.1/fae3a878f96727c9b7cc02c0219eebd8/AndroidManifest.xml:7:5-20
+MERGED from [:com.google.android.gms.play-services-ads-identifier-17.0.0:] /Users/skunk/.gradle/caches/transforms-2/files-2.1/77a3eddbc85a891d7bd4a35ee3b11c2f/AndroidManifest.xml:22:5-20
+MERGED from [:com.google.android.gms.play-services-ads-identifier-17.0.0:] /Users/skunk/.gradle/caches/transforms-2/files-2.1/77a3eddbc85a891d7bd4a35ee3b11c2f/AndroidManifest.xml:22:5-20
+MERGED from [:com.google.android.gms.play-services-ads-lite-18.2.0:] /Users/skunk/.gradle/caches/transforms-2/files-2.1/408a735e3e6d26ced11fec93ec6f4abe/AndroidManifest.xml:22:3-26:17
+MERGED from [:com.google.android.gms.play-services-ads-lite-18.2.0:] /Users/skunk/.gradle/caches/transforms-2/files-2.1/408a735e3e6d26ced11fec93ec6f4abe/AndroidManifest.xml:22:3-26:17
+MERGED from [:com.google.android.gms.play-services-basement-17.0.0:] /Users/skunk/.gradle/caches/transforms-2/files-2.1/44ec28eb42e80b08f8ed42f467ca1a89/AndroidManifest.xml:22:5-26:19
+MERGED from [:com.google.android.gms.play-services-basement-17.0.0:] /Users/skunk/.gradle/caches/transforms-2/files-2.1/44ec28eb42e80b08f8ed42f467ca1a89/AndroidManifest.xml:22:5-26:19
+MERGED from [:com.google.android.gms.play-services-gass-18.2.0:] /Users/skunk/.gradle/caches/transforms-2/files-2.1/bdab7e82cd049e122fa82bcdf0f9f3a4/AndroidManifest.xml:7:5-20
+MERGED from [:com.google.android.gms.play-services-gass-18.2.0:] /Users/skunk/.gradle/caches/transforms-2/files-2.1/bdab7e82cd049e122fa82bcdf0f9f3a4/AndroidManifest.xml:7:5-20
+MERGED from [:com.google.android.gms.play-services-measurement-17.0.0:] /Users/skunk/.gradle/caches/transforms-2/files-2.1/84bb361df120c6b62d7060db41231b07/AndroidManifest.xml:28:5-53:19
+MERGED from [:com.google.android.gms.play-services-measurement-17.0.0:] /Users/skunk/.gradle/caches/transforms-2/files-2.1/84bb361df120c6b62d7060db41231b07/AndroidManifest.xml:28:5-53:19
+MERGED from [:com.google.android.gms.play-services-measurement-base-17.0.0:] /Users/skunk/.gradle/caches/transforms-2/files-2.1/1c2cf4579874aa0d2de4e03595de7aba/AndroidManifest.xml:7:5-20
+MERGED from [:com.google.android.gms.play-services-measurement-base-17.0.0:] /Users/skunk/.gradle/caches/transforms-2/files-2.1/1c2cf4579874aa0d2de4e03595de7aba/AndroidManifest.xml:7:5-20
+MERGED from [:com.google.android.gms.play-services-measurement-impl-17.0.0:] /Users/skunk/.gradle/caches/transforms-2/files-2.1/3007755c57361496ee2c1fea2e71a254/AndroidManifest.xml:28:5-38:19
+MERGED from [:com.google.android.gms.play-services-measurement-impl-17.0.0:] /Users/skunk/.gradle/caches/transforms-2/files-2.1/3007755c57361496ee2c1fea2e71a254/AndroidManifest.xml:28:5-38:19
+MERGED from [:com.google.android.gms.play-services-measurement-sdk-17.0.0:] /Users/skunk/.gradle/caches/transforms-2/files-2.1/3580f44c1260364d67419084d3d029cf/AndroidManifest.xml:22:5-23:19
+MERGED from [:com.google.android.gms.play-services-measurement-sdk-17.0.0:] /Users/skunk/.gradle/caches/transforms-2/files-2.1/3580f44c1260364d67419084d3d029cf/AndroidManifest.xml:22:5-23:19
+MERGED from [:com.google.android.gms.play-services-measurement-sdk-api-17.0.0:] /Users/skunk/.gradle/caches/transforms-2/files-2.1/680addff4b8d0aad998001fb1dce57fc/AndroidManifest.xml:28:5-38:19
+MERGED from [:com.google.android.gms.play-services-measurement-sdk-api-17.0.0:] /Users/skunk/.gradle/caches/transforms-2/files-2.1/680addff4b8d0aad998001fb1dce57fc/AndroidManifest.xml:28:5-38:19
+MERGED from [:com.google.android.gms.play-services-stats-17.0.0:] /Users/skunk/.gradle/caches/transforms-2/files-2.1/3a9ae5640ccba8740369e4dcfdb6e5ad/AndroidManifest.xml:7:5-20
+MERGED from [:com.google.android.gms.play-services-stats-17.0.0:] /Users/skunk/.gradle/caches/transforms-2/files-2.1/3a9ae5640ccba8740369e4dcfdb6e5ad/AndroidManifest.xml:7:5-20
+MERGED from [:GoogleMobileAdsPlugin] /Users/skunk/Desktop/ゲーム/OKARUTO-OTENTEN/okaruto-otenten/Temp/gradleOut/GoogleMobileAdsPlugin/build/intermediates/library_manifest/release/AndroidManifest.xml:9:5-17:19
+MERGED from [:GoogleMobileAdsPlugin] /Users/skunk/Desktop/ゲーム/OKARUTO-OTENTEN/okaruto-otenten/Temp/gradleOut/GoogleMobileAdsPlugin/build/intermediates/library_manifest/release/AndroidManifest.xml:9:5-17:19
+	android:appComponentFactory
+		ADDED from [:androidx.core.core-1.0.0:] /Users/skunk/.gradle/caches/transforms-2/files-2.1/49c6f273d1d85b1c6c28899cdf4e296a/AndroidManifest.xml:22:18-86
+	android:label
+		ADDED from /Users/skunk/Desktop/ゲーム/OKARUTO-OTENTEN/okaruto-otenten/Temp/gradleOut/src/main/AndroidManifest.xml:4:90-122
+	android:icon
+		ADDED from /Users/skunk/Desktop/ゲーム/OKARUTO-OTENTEN/okaruto-otenten/Temp/gradleOut/src/main/AndroidManifest.xml:4:58-89
+	android:banner
+		ADDED from /Users/skunk/Desktop/ゲーム/OKARUTO-OTENTEN/okaruto-otenten/Temp/gradleOut/src/main/AndroidManifest.xml:4:145-182
+	android:theme
+		ADDED from /Users/skunk/Desktop/ゲーム/OKARUTO-OTENTEN/okaruto-otenten/Temp/gradleOut/src/main/AndroidManifest.xml:4:16-57
+	android:isGame
+		ADDED from /Users/skunk/Desktop/ゲーム/OKARUTO-OTENTEN/okaruto-otenten/Temp/gradleOut/src/main/AndroidManifest.xml:4:123-144
+activity#com.unity3d.player.UnityPlayerActivity
+ADDED from /Users/skunk/Desktop/ゲーム/OKARUTO-OTENTEN/okaruto-otenten/Temp/gradleOut/src/main/AndroidManifest.xml:5:5-12:16
+	android:screenOrientation
+		ADDED from /Users/skunk/Desktop/ゲーム/OKARUTO-OTENTEN/okaruto-otenten/Temp/gradleOut/src/main/AndroidManifest.xml:5:102-140
+	android:label
+		ADDED from /Users/skunk/Desktop/ゲーム/OKARUTO-OTENTEN/okaruto-otenten/Temp/gradleOut/src/main/AndroidManifest.xml:5:69-101
+	android:launchMode
+		ADDED from /Users/skunk/Desktop/ゲーム/OKARUTO-OTENTEN/okaruto-otenten/Temp/gradleOut/src/main/AndroidManifest.xml:5:141-172
+	android:hardwareAccelerated
+		ADDED from /Users/skunk/Desktop/ゲーム/OKARUTO-OTENTEN/okaruto-otenten/Temp/gradleOut/src/main/AndroidManifest.xml:5:355-390
+	android:configChanges
+		ADDED from /Users/skunk/Desktop/ゲーム/OKARUTO-OTENTEN/okaruto-otenten/Temp/gradleOut/src/main/AndroidManifest.xml:5:173-354
+	android:name
+		ADDED from /Users/skunk/Desktop/ゲーム/OKARUTO-OTENTEN/okaruto-otenten/Temp/gradleOut/src/main/AndroidManifest.xml:5:15-68
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER+category:name:android.intent.category.LEANBACK_LAUNCHER
+ADDED from /Users/skunk/Desktop/ゲーム/OKARUTO-OTENTEN/okaruto-otenten/Temp/gradleOut/src/main/AndroidManifest.xml:6:7-10:23
+action#android.intent.action.MAIN
+ADDED from /Users/skunk/Desktop/ゲーム/OKARUTO-OTENTEN/okaruto-otenten/Temp/gradleOut/src/main/AndroidManifest.xml:7:9-61
+	android:name
+		ADDED from /Users/skunk/Desktop/ゲーム/OKARUTO-OTENTEN/okaruto-otenten/Temp/gradleOut/src/main/AndroidManifest.xml:7:17-58
+category#android.intent.category.LAUNCHER
+ADDED from /Users/skunk/Desktop/ゲーム/OKARUTO-OTENTEN/okaruto-otenten/Temp/gradleOut/src/main/AndroidManifest.xml:8:9-69
+	android:name
+		ADDED from /Users/skunk/Desktop/ゲーム/OKARUTO-OTENTEN/okaruto-otenten/Temp/gradleOut/src/main/AndroidManifest.xml:8:19-66
+category#android.intent.category.LEANBACK_LAUNCHER
+ADDED from /Users/skunk/Desktop/ゲーム/OKARUTO-OTENTEN/okaruto-otenten/Temp/gradleOut/src/main/AndroidManifest.xml:9:9-78
+	android:name
+		ADDED from /Users/skunk/Desktop/ゲーム/OKARUTO-OTENTEN/okaruto-otenten/Temp/gradleOut/src/main/AndroidManifest.xml:9:19-75
+meta-data#unityplayer.UnityActivity
+ADDED from /Users/skunk/Desktop/ゲーム/OKARUTO-OTENTEN/okaruto-otenten/Temp/gradleOut/src/main/AndroidManifest.xml:11:7-82
+	android:value
+		ADDED from /Users/skunk/Desktop/ゲーム/OKARUTO-OTENTEN/okaruto-otenten/Temp/gradleOut/src/main/AndroidManifest.xml:11:59-79
+	android:name
+		ADDED from /Users/skunk/Desktop/ゲーム/OKARUTO-OTENTEN/okaruto-otenten/Temp/gradleOut/src/main/AndroidManifest.xml:11:18-58
+meta-data#unity.build-id
+ADDED from /Users/skunk/Desktop/ゲーム/OKARUTO-OTENTEN/okaruto-otenten/Temp/gradleOut/src/main/AndroidManifest.xml:13:5-101
+	android:value
+		ADDED from /Users/skunk/Desktop/ゲーム/OKARUTO-OTENTEN/okaruto-otenten/Temp/gradleOut/src/main/AndroidManifest.xml:13:46-98
+	android:name
+		ADDED from /Users/skunk/Desktop/ゲーム/OKARUTO-OTENTEN/okaruto-otenten/Temp/gradleOut/src/main/AndroidManifest.xml:13:16-45
+meta-data#unity.splash-mode
+ADDED from /Users/skunk/Desktop/ゲーム/OKARUTO-OTENTEN/okaruto-otenten/Temp/gradleOut/src/main/AndroidManifest.xml:14:5-69
+	android:value
+		ADDED from /Users/skunk/Desktop/ゲーム/OKARUTO-OTENTEN/okaruto-otenten/Temp/gradleOut/src/main/AndroidManifest.xml:14:49-66
+	android:name
+		ADDED from /Users/skunk/Desktop/ゲーム/OKARUTO-OTENTEN/okaruto-otenten/Temp/gradleOut/src/main/AndroidManifest.xml:14:16-48
+meta-data#unity.splash-enable
+ADDED from /Users/skunk/Desktop/ゲーム/OKARUTO-OTENTEN/okaruto-otenten/Temp/gradleOut/src/main/AndroidManifest.xml:15:5-74
+	android:value
+		ADDED from /Users/skunk/Desktop/ゲーム/OKARUTO-OTENTEN/okaruto-otenten/Temp/gradleOut/src/main/AndroidManifest.xml:15:51-71
+	android:name
+		ADDED from /Users/skunk/Desktop/ゲーム/OKARUTO-OTENTEN/okaruto-otenten/Temp/gradleOut/src/main/AndroidManifest.xml:15:16-50
+uses-feature#0x00020000
+ADDED from /Users/skunk/Desktop/ゲーム/OKARUTO-OTENTEN/okaruto-otenten/Temp/gradleOut/src/main/AndroidManifest.xml:17:3-52
+	android:glEsVersion
+		ADDED from /Users/skunk/Desktop/ゲーム/OKARUTO-OTENTEN/okaruto-otenten/Temp/gradleOut/src/main/AndroidManifest.xml:17:17-49
+uses-permission#android.permission.INTERNET
+ADDED from /Users/skunk/Desktop/ゲーム/OKARUTO-OTENTEN/okaruto-otenten/Temp/gradleOut/src/main/AndroidManifest.xml:18:3-65
+MERGED from [:com.google.android.gms.play-services-ads-lite-18.2.0:] /Users/skunk/.gradle/caches/transforms-2/files-2.1/408a735e3e6d26ced11fec93ec6f4abe/AndroidManifest.xml:20:3-65
+MERGED from [:com.google.android.gms.play-services-ads-lite-18.2.0:] /Users/skunk/.gradle/caches/transforms-2/files-2.1/408a735e3e6d26ced11fec93ec6f4abe/AndroidManifest.xml:20:3-65
+MERGED from [:com.google.android.gms.play-services-measurement-17.0.0:] /Users/skunk/.gradle/caches/transforms-2/files-2.1/84bb361df120c6b62d7060db41231b07/AndroidManifest.xml:23:5-67
+MERGED from [:com.google.android.gms.play-services-measurement-17.0.0:] /Users/skunk/.gradle/caches/transforms-2/files-2.1/84bb361df120c6b62d7060db41231b07/AndroidManifest.xml:23:5-67
+MERGED from [:com.google.android.gms.play-services-measurement-impl-17.0.0:] /Users/skunk/.gradle/caches/transforms-2/files-2.1/3007755c57361496ee2c1fea2e71a254/AndroidManifest.xml:23:5-67
+MERGED from [:com.google.android.gms.play-services-measurement-impl-17.0.0:] /Users/skunk/.gradle/caches/transforms-2/files-2.1/3007755c57361496ee2c1fea2e71a254/AndroidManifest.xml:23:5-67
+MERGED from [:com.google.android.gms.play-services-measurement-sdk-api-17.0.0:] /Users/skunk/.gradle/caches/transforms-2/files-2.1/680addff4b8d0aad998001fb1dce57fc/AndroidManifest.xml:23:5-67
+MERGED from [:com.google.android.gms.play-services-measurement-sdk-api-17.0.0:] /Users/skunk/.gradle/caches/transforms-2/files-2.1/680addff4b8d0aad998001fb1dce57fc/AndroidManifest.xml:23:5-67
+MERGED from [:googlemobileads-unity:] /Users/skunk/.gradle/caches/transforms-2/files-2.1/756780868f1ae98e2cc8044f866c67fc/AndroidManifest.xml:16:5-67
+MERGED from [:googlemobileads-unity:] /Users/skunk/.gradle/caches/transforms-2/files-2.1/756780868f1ae98e2cc8044f866c67fc/AndroidManifest.xml:16:5-67
+	android:name
+		ADDED from /Users/skunk/Desktop/ゲーム/OKARUTO-OTENTEN/okaruto-otenten/Temp/gradleOut/src/main/AndroidManifest.xml:18:20-62
+uses-feature#android.hardware.touchscreen
+ADDED from /Users/skunk/Desktop/ゲーム/OKARUTO-OTENTEN/okaruto-otenten/Temp/gradleOut/src/main/AndroidManifest.xml:19:3-88
+	android:required
+		ADDED from /Users/skunk/Desktop/ゲーム/OKARUTO-OTENTEN/okaruto-otenten/Temp/gradleOut/src/main/AndroidManifest.xml:19:61-85
+	android:name
+		ADDED from /Users/skunk/Desktop/ゲーム/OKARUTO-OTENTEN/okaruto-otenten/Temp/gradleOut/src/main/AndroidManifest.xml:19:17-60
+uses-feature#android.hardware.touchscreen.multitouch
+ADDED from /Users/skunk/Desktop/ゲーム/OKARUTO-OTENTEN/okaruto-otenten/Temp/gradleOut/src/main/AndroidManifest.xml:20:3-99
+	android:required
+		ADDED from /Users/skunk/Desktop/ゲーム/OKARUTO-OTENTEN/okaruto-otenten/Temp/gradleOut/src/main/AndroidManifest.xml:20:72-96
+	android:name
+		ADDED from /Users/skunk/Desktop/ゲーム/OKARUTO-OTENTEN/okaruto-otenten/Temp/gradleOut/src/main/AndroidManifest.xml:20:17-71
+uses-feature#android.hardware.touchscreen.multitouch.distinct
+ADDED from /Users/skunk/Desktop/ゲーム/OKARUTO-OTENTEN/okaruto-otenten/Temp/gradleOut/src/main/AndroidManifest.xml:21:3-108
+	android:required
+		ADDED from /Users/skunk/Desktop/ゲーム/OKARUTO-OTENTEN/okaruto-otenten/Temp/gradleOut/src/main/AndroidManifest.xml:21:81-105
+	android:name
+		ADDED from /Users/skunk/Desktop/ゲーム/OKARUTO-OTENTEN/okaruto-otenten/Temp/gradleOut/src/main/AndroidManifest.xml:21:17-80
+uses-sdk
+INJECTED from /Users/skunk/Desktop/ゲーム/OKARUTO-OTENTEN/okaruto-otenten/Temp/gradleOut/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/skunk/Desktop/ゲーム/OKARUTO-OTENTEN/okaruto-otenten/Temp/gradleOut/src/main/AndroidManifest.xml
+INJECTED from /Users/skunk/Desktop/ゲーム/OKARUTO-OTENTEN/okaruto-otenten/Temp/gradleOut/src/main/AndroidManifest.xml
+MERGED from [:androidx.arch.core.core-runtime-2.0.0:] /Users/skunk/.gradle/caches/transforms-2/files-2.1/b1c698f98302bac37a87989e0d03472e/AndroidManifest.xml:20:5-44
+MERGED from [:androidx.arch.core.core-runtime-2.0.0:] /Users/skunk/.gradle/caches/transforms-2/files-2.1/b1c698f98302bac37a87989e0d03472e/AndroidManifest.xml:20:5-44
+MERGED from [:androidx.asynclayoutinflater.asynclayoutinflater-1.0.0:] /Users/skunk/.gradle/caches/transforms-2/files-2.1/80760b9736fdf6f2e1023489d71150aa/AndroidManifest.xml:20:5-44
+MERGED from [:androidx.asynclayoutinflater.asynclayoutinflater-1.0.0:] /Users/skunk/.gradle/caches/transforms-2/files-2.1/80760b9736fdf6f2e1023489d71150aa/AndroidManifest.xml:20:5-44
+MERGED from [:androidx.browser.browser-1.0.0:] /Users/skunk/.gradle/caches/transforms-2/files-2.1/269515285c8d04fc55437014a16f0507/AndroidManifest.xml:20:5-44
+MERGED from [:androidx.browser.browser-1.0.0:] /Users/skunk/.gradle/caches/transforms-2/files-2.1/269515285c8d04fc55437014a16f0507/AndroidManifest.xml:20:5-44
+MERGED from [:androidx.coordinatorlayout.coordinatorlayout-1.0.0:] /Users/skunk/.gradle/caches/transforms-2/files-2.1/533dc9e2a91e597a251aea2366f44a93/AndroidManifest.xml:20:5-44
+MERGED from [:androidx.coordinatorlayout.coordinatorlayout-1.0.0:] /Users/skunk/.gradle/caches/transforms-2/files-2.1/533dc9e2a91e597a251aea2366f44a93/AndroidManifest.xml:20:5-44
+MERGED from [:androidx.core.core-1.0.0:] /Users/skunk/.gradle/caches/transforms-2/files-2.1/49c6f273d1d85b1c6c28899cdf4e296a/AndroidManifest.xml:20:5-44
+MERGED from [:androidx.core.core-1.0.0:] /Users/skunk/.gradle/caches/transforms-2/files-2.1/49c6f273d1d85b1c6c28899cdf4e296a/AndroidManifest.xml:20:5-44
+MERGED from [:androidx.cursoradapter.cursoradapter-1.0.0:] /Users/skunk/.gradle/caches/transforms-2/files-2.1/e51fca7d264991df79e8e4b44045b21c/AndroidManifest.xml:20:5-44
+MERGED from [:androidx.cursoradapter.cursoradapter-1.0.0:] /Users/skunk/.gradle/caches/transforms-2/files-2.1/e51fca7d264991df79e8e4b44045b21c/AndroidManifest.xml:20:5-44
+MERGED from [:androidx.customview.customview-1.0.0:] /Users/skunk/.gradle/caches/transforms-2/files-2.1/b09953f750a04fa592885f6b3e06ffdf/AndroidManifest.xml:20:5-44
+MERGED from [:androidx.customview.customview-1.0.0:] /Users/skunk/.gradle/caches/transforms-2/files-2.1/b09953f750a04fa592885f6b3e06ffdf/AndroidManifest.xml:20:5-44
+MERGED from [:androidx.documentfile.documentfile-1.0.0:] /Users/skunk/.gradle/caches/transforms-2/files-2.1/609fbed602d5bd5286d11ab70682a983/AndroidManifest.xml:20:5-44
+MERGED from [:androidx.documentfile.documentfile-1.0.0:] /Users/skunk/.gradle/caches/transforms-2/files-2.1/609fbed602d5bd5286d11ab70682a983/AndroidManifest.xml:20:5-44
+MERGED from [:androidx.drawerlayout.drawerlayout-1.0.0:] /Users/skunk/.gradle/caches/transforms-2/files-2.1/1cbda38c4175715253f9e11a2d7ad5ba/AndroidManifest.xml:20:5-44
+MERGED from [:androidx.drawerlayout.drawerlayout-1.0.0:] /Users/skunk/.gradle/caches/transforms-2/files-2.1/1cbda38c4175715253f9e11a2d7ad5ba/AndroidManifest.xml:20:5-44
+MERGED from [:androidx.fragment.fragment-1.0.0:] /Users/skunk/.gradle/caches/transforms-2/files-2.1/f9afd9a3799e7e2cd93d16feeca1680e/AndroidManifest.xml:20:5-44
+MERGED from [:androidx.fragment.fragment-1.0.0:] /Users/skunk/.gradle/caches/transforms-2/files-2.1/f9afd9a3799e7e2cd93d16feeca1680e/AndroidManifest.xml:20:5-44
+MERGED from [:androidx.interpolator.interpolator-1.0.0:] /Users/skunk/.gradle/caches/transforms-2/files-2.1/f9e8fd28bb6f7bf32e1ff196a61a00ca/AndroidManifest.xml:20:5-44
+MERGED from [:androidx.interpolator.interpolator-1.0.0:] /Users/skunk/.gradle/caches/transforms-2/files-2.1/f9e8fd28bb6f7bf32e1ff196a61a00ca/AndroidManifest.xml:20:5-44
+MERGED from [:androidx.legacy.legacy-support-core-ui-1.0.0:] /Users/skunk/.gradle/caches/transforms-2/files-2.1/205ecfaf61d76176eb52c5e08761f20a/AndroidManifest.xml:20:5-44
+MERGED from [:androidx.legacy.legacy-support-core-ui-1.0.0:] /Users/skunk/.gradle/caches/transforms-2/files-2.1/205ecfaf61d76176eb52c5e08761f20a/AndroidManifest.xml:20:5-44
+MERGED from [:androidx.legacy.legacy-support-core-utils-1.0.0:] /Users/skunk/.gradle/caches/transforms-2/files-2.1/9a8d64913bd6097260c9779b1fbcddb8/AndroidManifest.xml:20:5-44
+MERGED from [:androidx.legacy.legacy-support-core-utils-1.0.0:] /Users/skunk/.gradle/caches/transforms-2/files-2.1/9a8d64913bd6097260c9779b1fbcddb8/AndroidManifest.xml:20:5-44
+MERGED from [:androidx.lifecycle.lifecycle-livedata-2.0.0:] /Users/skunk/.gradle/caches/transforms-2/files-2.1/3c315ba7fd49fdb754713ecf6988f64d/AndroidManifest.xml:20:5-44
+MERGED from [:androidx.lifecycle.lifecycle-livedata-2.0.0:] /Users/skunk/.gradle/caches/transforms-2/files-2.1/3c315ba7fd49fdb754713ecf6988f64d/AndroidManifest.xml:20:5-44
+MERGED from [:androidx.lifecycle.lifecycle-livedata-core-2.0.0:] /Users/skunk/.gradle/caches/transforms-2/files-2.1/8eeb73a9f82415d639d3a8818ced8a38/AndroidManifest.xml:20:5-44
+MERGED from [:androidx.lifecycle.lifecycle-livedata-core-2.0.0:] /Users/skunk/.gradle/caches/transforms-2/files-2.1/8eeb73a9f82415d639d3a8818ced8a38/AndroidManifest.xml:20:5-44
+MERGED from [:androidx.lifecycle.lifecycle-runtime-2.0.0:] /Users/skunk/.gradle/caches/transforms-2/files-2.1/31004e639435a8df631bea09ebf2d404/AndroidManifest.xml:20:5-44
+MERGED from [:androidx.lifecycle.lifecycle-runtime-2.0.0:] /Users/skunk/.gradle/caches/transforms-2/files-2.1/31004e639435a8df631bea09ebf2d404/AndroidManifest.xml:20:5-44
+MERGED from [:androidx.lifecycle.lifecycle-viewmodel-2.0.0:] /Users/skunk/.gradle/caches/transforms-2/files-2.1/28c6c253e785d89a23de4dc2e758b6a1/AndroidManifest.xml:20:5-44
+MERGED from [:androidx.lifecycle.lifecycle-viewmodel-2.0.0:] /Users/skunk/.gradle/caches/transforms-2/files-2.1/28c6c253e785d89a23de4dc2e758b6a1/AndroidManifest.xml:20:5-44
+MERGED from [:androidx.loader.loader-1.0.0:] /Users/skunk/.gradle/caches/transforms-2/files-2.1/235251d41052990a8daebe03841d9f94/AndroidManifest.xml:20:5-44
+MERGED from [:androidx.loader.loader-1.0.0:] /Users/skunk/.gradle/caches/transforms-2/files-2.1/235251d41052990a8daebe03841d9f94/AndroidManifest.xml:20:5-44
+MERGED from [:androidx.localbroadcastmanager.localbroadcastmanager-1.0.0:] /Users/skunk/.gradle/caches/transforms-2/files-2.1/cb1bff3c3b6ba9c599dcf9218b7dfc34/AndroidManifest.xml:20:5-44
+MERGED from [:androidx.localbroadcastmanager.localbroadcastmanager-1.0.0:] /Users/skunk/.gradle/caches/transforms-2/files-2.1/cb1bff3c3b6ba9c599dcf9218b7dfc34/AndroidManifest.xml:20:5-44
+MERGED from [:androidx.print.print-1.0.0:] /Users/skunk/.gradle/caches/transforms-2/files-2.1/2e8e015b7ae5686b57e4dfcc46af5d38/AndroidManifest.xml:20:5-44
+MERGED from [:androidx.print.print-1.0.0:] /Users/skunk/.gradle/caches/transforms-2/files-2.1/2e8e015b7ae5686b57e4dfcc46af5d38/AndroidManifest.xml:20:5-44
+MERGED from [:androidx.slidingpanelayout.slidingpanelayout-1.0.0:] /Users/skunk/.gradle/caches/transforms-2/files-2.1/58129348951535d95b30c6763d2fd96f/AndroidManifest.xml:20:5-44
+MERGED from [:androidx.slidingpanelayout.slidingpanelayout-1.0.0:] /Users/skunk/.gradle/caches/transforms-2/files-2.1/58129348951535d95b30c6763d2fd96f/AndroidManifest.xml:20:5-44
+MERGED from [:androidx.swiperefreshlayout.swiperefreshlayout-1.0.0:] /Users/skunk/.gradle/caches/transforms-2/files-2.1/79ce0c7ba1c37a08e28bfc8ebda8ca7c/AndroidManifest.xml:20:5-44
+MERGED from [:androidx.swiperefreshlayout.swiperefreshlayout-1.0.0:] /Users/skunk/.gradle/caches/transforms-2/files-2.1/79ce0c7ba1c37a08e28bfc8ebda8ca7c/AndroidManifest.xml:20:5-44
+MERGED from [:androidx.versionedparcelable.versionedparcelable-1.0.0:] /Users/skunk/.gradle/caches/transforms-2/files-2.1/3f92c951226265d5ba7e9d2c59695fed/AndroidManifest.xml:20:5-44
+MERGED from [:androidx.versionedparcelable.versionedparcelable-1.0.0:] /Users/skunk/.gradle/caches/transforms-2/files-2.1/3f92c951226265d5ba7e9d2c59695fed/AndroidManifest.xml:20:5-44
+MERGED from [:androidx.viewpager.viewpager-1.0.0:] /Users/skunk/.gradle/caches/transforms-2/files-2.1/bea0aa707b7eb44432c99d8c2b3ccdca/AndroidManifest.xml:20:5-44
+MERGED from [:androidx.viewpager.viewpager-1.0.0:] /Users/skunk/.gradle/caches/transforms-2/files-2.1/bea0aa707b7eb44432c99d8c2b3ccdca/AndroidManifest.xml:20:5-44
+MERGED from [:com.google.android.gms.play-services-ads-18.2.0:] /Users/skunk/.gradle/caches/transforms-2/files-2.1/68283badd9b26f59c7260c6bb5b075de/AndroidManifest.xml:21:5-23:52
+MERGED from [:com.google.android.gms.play-services-ads-18.2.0:] /Users/skunk/.gradle/caches/transforms-2/files-2.1/68283badd9b26f59c7260c6bb5b075de/AndroidManifest.xml:21:5-23:52
+MERGED from [:com.google.android.gms.play-services-ads-base-18.2.0:] /Users/skunk/.gradle/caches/transforms-2/files-2.1/fae3a878f96727c9b7cc02c0219eebd8/AndroidManifest.xml:5:5-44
+MERGED from [:com.google.android.gms.play-services-ads-base-18.2.0:] /Users/skunk/.gradle/caches/transforms-2/files-2.1/fae3a878f96727c9b7cc02c0219eebd8/AndroidManifest.xml:5:5-44
+MERGED from [:com.google.android.gms.play-services-ads-identifier-17.0.0:] /Users/skunk/.gradle/caches/transforms-2/files-2.1/77a3eddbc85a891d7bd4a35ee3b11c2f/AndroidManifest.xml:20:5-44
+MERGED from [:com.google.android.gms.play-services-ads-identifier-17.0.0:] /Users/skunk/.gradle/caches/transforms-2/files-2.1/77a3eddbc85a891d7bd4a35ee3b11c2f/AndroidManifest.xml:20:5-44
+MERGED from [:com.google.android.gms.play-services-ads-lite-18.2.0:] /Users/skunk/.gradle/caches/transforms-2/files-2.1/408a735e3e6d26ced11fec93ec6f4abe/AndroidManifest.xml:18:3-42
+MERGED from [:com.google.android.gms.play-services-ads-lite-18.2.0:] /Users/skunk/.gradle/caches/transforms-2/files-2.1/408a735e3e6d26ced11fec93ec6f4abe/AndroidManifest.xml:18:3-42
+MERGED from [:com.google.android.gms.play-services-basement-17.0.0:] /Users/skunk/.gradle/caches/transforms-2/files-2.1/44ec28eb42e80b08f8ed42f467ca1a89/AndroidManifest.xml:20:5-44
+MERGED from [:com.google.android.gms.play-services-basement-17.0.0:] /Users/skunk/.gradle/caches/transforms-2/files-2.1/44ec28eb42e80b08f8ed42f467ca1a89/AndroidManifest.xml:20:5-44
+MERGED from [:com.google.android.gms.play-services-gass-18.2.0:] /Users/skunk/.gradle/caches/transforms-2/files-2.1/bdab7e82cd049e122fa82bcdf0f9f3a4/AndroidManifest.xml:5:5-44
+MERGED from [:com.google.android.gms.play-services-gass-18.2.0:] /Users/skunk/.gradle/caches/transforms-2/files-2.1/bdab7e82cd049e122fa82bcdf0f9f3a4/AndroidManifest.xml:5:5-44
+MERGED from [:com.google.android.gms.play-services-measurement-17.0.0:] /Users/skunk/.gradle/caches/transforms-2/files-2.1/84bb361df120c6b62d7060db41231b07/AndroidManifest.xml:20:5-44
+MERGED from [:com.google.android.gms.play-services-measurement-17.0.0:] /Users/skunk/.gradle/caches/transforms-2/files-2.1/84bb361df120c6b62d7060db41231b07/AndroidManifest.xml:20:5-44
+MERGED from [:com.google.android.gms.play-services-measurement-base-17.0.0:] /Users/skunk/.gradle/caches/transforms-2/files-2.1/1c2cf4579874aa0d2de4e03595de7aba/AndroidManifest.xml:5:5-44
+MERGED from [:com.google.android.gms.play-services-measurement-base-17.0.0:] /Users/skunk/.gradle/caches/transforms-2/files-2.1/1c2cf4579874aa0d2de4e03595de7aba/AndroidManifest.xml:5:5-44
+MERGED from [:com.google.android.gms.play-services-measurement-impl-17.0.0:] /Users/skunk/.gradle/caches/transforms-2/files-2.1/3007755c57361496ee2c1fea2e71a254/AndroidManifest.xml:20:5-44
+MERGED from [:com.google.android.gms.play-services-measurement-impl-17.0.0:] /Users/skunk/.gradle/caches/transforms-2/files-2.1/3007755c57361496ee2c1fea2e71a254/AndroidManifest.xml:20:5-44
+MERGED from [:com.google.android.gms.play-services-measurement-sdk-17.0.0:] /Users/skunk/.gradle/caches/transforms-2/files-2.1/3580f44c1260364d67419084d3d029cf/AndroidManifest.xml:20:5-44
+MERGED from [:com.google.android.gms.play-services-measurement-sdk-17.0.0:] /Users/skunk/.gradle/caches/transforms-2/files-2.1/3580f44c1260364d67419084d3d029cf/AndroidManifest.xml:20:5-44
+MERGED from [:com.google.android.gms.play-services-measurement-sdk-api-17.0.0:] /Users/skunk/.gradle/caches/transforms-2/files-2.1/680addff4b8d0aad998001fb1dce57fc/AndroidManifest.xml:20:5-44
+MERGED from [:com.google.android.gms.play-services-measurement-sdk-api-17.0.0:] /Users/skunk/.gradle/caches/transforms-2/files-2.1/680addff4b8d0aad998001fb1dce57fc/AndroidManifest.xml:20:5-44
+MERGED from [:com.google.android.gms.play-services-stats-17.0.0:] /Users/skunk/.gradle/caches/transforms-2/files-2.1/3a9ae5640ccba8740369e4dcfdb6e5ad/AndroidManifest.xml:5:5-44
+MERGED from [:com.google.android.gms.play-services-stats-17.0.0:] /Users/skunk/.gradle/caches/transforms-2/files-2.1/3a9ae5640ccba8740369e4dcfdb6e5ad/AndroidManifest.xml:5:5-44
+MERGED from [:googlemobileads-unity:] /Users/skunk/.gradle/caches/transforms-2/files-2.1/756780868f1ae98e2cc8044f866c67fc/AndroidManifest.xml:12:5-14:41
+MERGED from [:googlemobileads-unity:] /Users/skunk/.gradle/caches/transforms-2/files-2.1/756780868f1ae98e2cc8044f866c67fc/AndroidManifest.xml:12:5-14:41
+MERGED from [:GoogleMobileAdsPlugin] /Users/skunk/Desktop/ゲーム/OKARUTO-OTENTEN/okaruto-otenten/Temp/gradleOut/GoogleMobileAdsPlugin/build/intermediates/library_manifest/release/AndroidManifest.xml:7:5-47
+MERGED from [:GoogleMobileAdsPlugin] /Users/skunk/Desktop/ゲーム/OKARUTO-OTENTEN/okaruto-otenten/Temp/gradleOut/GoogleMobileAdsPlugin/build/intermediates/library_manifest/release/AndroidManifest.xml:7:5-47
+INJECTED from /Users/skunk/Desktop/ゲーム/OKARUTO-OTENTEN/okaruto-otenten/Temp/gradleOut/src/main/AndroidManifest.xml
+INJECTED from /Users/skunk/Desktop/ゲーム/OKARUTO-OTENTEN/okaruto-otenten/Temp/gradleOut/src/main/AndroidManifest.xml
+	tools:overrideLibrary
+		ADDED from [:com.google.android.gms.play-services-ads-18.2.0:] /Users/skunk/.gradle/caches/transforms-2/files-2.1/68283badd9b26f59c7260c6bb5b075de/AndroidManifest.xml:23:9-49
+	android:targetSdkVersion
+		INJECTED from /Users/skunk/Desktop/ゲーム/OKARUTO-OTENTEN/okaruto-otenten/Temp/gradleOut/src/main/AndroidManifest.xml
+		ADDED from /Users/skunk/Desktop/ゲーム/OKARUTO-OTENTEN/okaruto-otenten/Temp/gradleOut/src/main/AndroidManifest.xml
+		INJECTED from /Users/skunk/Desktop/ゲーム/OKARUTO-OTENTEN/okaruto-otenten/Temp/gradleOut/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/skunk/Desktop/ゲーム/OKARUTO-OTENTEN/okaruto-otenten/Temp/gradleOut/src/main/AndroidManifest.xml
+		ADDED from /Users/skunk/Desktop/ゲーム/OKARUTO-OTENTEN/okaruto-otenten/Temp/gradleOut/src/main/AndroidManifest.xml
+		MERGED from /Users/skunk/Desktop/ゲーム/OKARUTO-OTENTEN/okaruto-otenten/Temp/gradleOut/src/main/AndroidManifest.xml
+		INJECTED from /Users/skunk/Desktop/ゲーム/OKARUTO-OTENTEN/okaruto-otenten/Temp/gradleOut/src/main/AndroidManifest.xml
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from [:com.google.android.gms.play-services-ads-lite-18.2.0:] /Users/skunk/.gradle/caches/transforms-2/files-2.1/408a735e3e6d26ced11fec93ec6f4abe/AndroidManifest.xml:21:3-77
+MERGED from [:com.google.android.gms.play-services-measurement-17.0.0:] /Users/skunk/.gradle/caches/transforms-2/files-2.1/84bb361df120c6b62d7060db41231b07/AndroidManifest.xml:24:5-79
+MERGED from [:com.google.android.gms.play-services-measurement-17.0.0:] /Users/skunk/.gradle/caches/transforms-2/files-2.1/84bb361df120c6b62d7060db41231b07/AndroidManifest.xml:24:5-79
+MERGED from [:com.google.android.gms.play-services-measurement-impl-17.0.0:] /Users/skunk/.gradle/caches/transforms-2/files-2.1/3007755c57361496ee2c1fea2e71a254/AndroidManifest.xml:24:5-79
+MERGED from [:com.google.android.gms.play-services-measurement-impl-17.0.0:] /Users/skunk/.gradle/caches/transforms-2/files-2.1/3007755c57361496ee2c1fea2e71a254/AndroidManifest.xml:24:5-79
+MERGED from [:com.google.android.gms.play-services-measurement-sdk-api-17.0.0:] /Users/skunk/.gradle/caches/transforms-2/files-2.1/680addff4b8d0aad998001fb1dce57fc/AndroidManifest.xml:24:5-79
+MERGED from [:com.google.android.gms.play-services-measurement-sdk-api-17.0.0:] /Users/skunk/.gradle/caches/transforms-2/files-2.1/680addff4b8d0aad998001fb1dce57fc/AndroidManifest.xml:24:5-79
+	android:name
+		ADDED from [:com.google.android.gms.play-services-ads-lite-18.2.0:] /Users/skunk/.gradle/caches/transforms-2/files-2.1/408a735e3e6d26ced11fec93ec6f4abe/AndroidManifest.xml:21:20-74
+activity#com.google.android.gms.ads.AdActivity
+ADDED from [:com.google.android.gms.play-services-ads-lite-18.2.0:] /Users/skunk/.gradle/caches/transforms-2/files-2.1/408a735e3e6d26ced11fec93ec6f4abe/AndroidManifest.xml:24:5-254
+	android:exported
+		ADDED from [:com.google.android.gms.play-services-ads-lite-18.2.0:] /Users/skunk/.gradle/caches/transforms-2/files-2.1/408a735e3e6d26ced11fec93ec6f4abe/AndroidManifest.xml:24:178-202
+	android:configChanges
+		ADDED from [:com.google.android.gms.play-services-ads-lite-18.2.0:] /Users/skunk/.gradle/caches/transforms-2/files-2.1/408a735e3e6d26ced11fec93ec6f4abe/AndroidManifest.xml:24:68-177
+	android:theme
+		ADDED from [:com.google.android.gms.play-services-ads-lite-18.2.0:] /Users/skunk/.gradle/caches/transforms-2/files-2.1/408a735e3e6d26ced11fec93ec6f4abe/AndroidManifest.xml:24:203-251
+	android:name
+		ADDED from [:com.google.android.gms.play-services-ads-lite-18.2.0:] /Users/skunk/.gradle/caches/transforms-2/files-2.1/408a735e3e6d26ced11fec93ec6f4abe/AndroidManifest.xml:24:15-67
+provider#com.google.android.gms.ads.MobileAdsInitProvider
+ADDED from [:com.google.android.gms.play-services-ads-lite-18.2.0:] /Users/skunk/.gradle/caches/transforms-2/files-2.1/408a735e3e6d26ced11fec93ec6f4abe/AndroidManifest.xml:25:5-189
+	android:authorities
+		ADDED from [:com.google.android.gms.play-services-ads-lite-18.2.0:] /Users/skunk/.gradle/caches/transforms-2/files-2.1/408a735e3e6d26ced11fec93ec6f4abe/AndroidManifest.xml:25:79-137
+	android:exported
+		ADDED from [:com.google.android.gms.play-services-ads-lite-18.2.0:] /Users/skunk/.gradle/caches/transforms-2/files-2.1/408a735e3e6d26ced11fec93ec6f4abe/AndroidManifest.xml:25:138-162
+	android:initOrder
+		ADDED from [:com.google.android.gms.play-services-ads-lite-18.2.0:] /Users/skunk/.gradle/caches/transforms-2/files-2.1/408a735e3e6d26ced11fec93ec6f4abe/AndroidManifest.xml:25:163-186
+	android:name
+		ADDED from [:com.google.android.gms.play-services-ads-lite-18.2.0:] /Users/skunk/.gradle/caches/transforms-2/files-2.1/408a735e3e6d26ced11fec93ec6f4abe/AndroidManifest.xml:25:15-78
+meta-data#com.google.android.gms.version
+ADDED from [:com.google.android.gms.play-services-basement-17.0.0:] /Users/skunk/.gradle/caches/transforms-2/files-2.1/44ec28eb42e80b08f8ed42f467ca1a89/AndroidManifest.xml:23:9-25:69
+	android:value
+		ADDED from [:com.google.android.gms.play-services-basement-17.0.0:] /Users/skunk/.gradle/caches/transforms-2/files-2.1/44ec28eb42e80b08f8ed42f467ca1a89/AndroidManifest.xml:25:13-66
+	android:name
+		ADDED from [:com.google.android.gms.play-services-basement-17.0.0:] /Users/skunk/.gradle/caches/transforms-2/files-2.1/44ec28eb42e80b08f8ed42f467ca1a89/AndroidManifest.xml:24:13-58
+uses-permission#android.permission.WAKE_LOCK
+ADDED from [:com.google.android.gms.play-services-measurement-17.0.0:] /Users/skunk/.gradle/caches/transforms-2/files-2.1/84bb361df120c6b62d7060db41231b07/AndroidManifest.xml:25:5-68
+MERGED from [:com.google.android.gms.play-services-measurement-impl-17.0.0:] /Users/skunk/.gradle/caches/transforms-2/files-2.1/3007755c57361496ee2c1fea2e71a254/AndroidManifest.xml:25:5-68
+MERGED from [:com.google.android.gms.play-services-measurement-impl-17.0.0:] /Users/skunk/.gradle/caches/transforms-2/files-2.1/3007755c57361496ee2c1fea2e71a254/AndroidManifest.xml:25:5-68
+MERGED from [:com.google.android.gms.play-services-measurement-sdk-api-17.0.0:] /Users/skunk/.gradle/caches/transforms-2/files-2.1/680addff4b8d0aad998001fb1dce57fc/AndroidManifest.xml:25:5-68
+MERGED from [:com.google.android.gms.play-services-measurement-sdk-api-17.0.0:] /Users/skunk/.gradle/caches/transforms-2/files-2.1/680addff4b8d0aad998001fb1dce57fc/AndroidManifest.xml:25:5-68
+	android:name
+		ADDED from [:com.google.android.gms.play-services-measurement-17.0.0:] /Users/skunk/.gradle/caches/transforms-2/files-2.1/84bb361df120c6b62d7060db41231b07/AndroidManifest.xml:25:22-65
+uses-permission#com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE
+ADDED from [:com.google.android.gms.play-services-measurement-17.0.0:] /Users/skunk/.gradle/caches/transforms-2/files-2.1/84bb361df120c6b62d7060db41231b07/AndroidManifest.xml:26:5-110
+MERGED from [:com.google.android.gms.play-services-measurement-impl-17.0.0:] /Users/skunk/.gradle/caches/transforms-2/files-2.1/3007755c57361496ee2c1fea2e71a254/AndroidManifest.xml:26:5-110
+MERGED from [:com.google.android.gms.play-services-measurement-impl-17.0.0:] /Users/skunk/.gradle/caches/transforms-2/files-2.1/3007755c57361496ee2c1fea2e71a254/AndroidManifest.xml:26:5-110
+MERGED from [:com.google.android.gms.play-services-measurement-sdk-api-17.0.0:] /Users/skunk/.gradle/caches/transforms-2/files-2.1/680addff4b8d0aad998001fb1dce57fc/AndroidManifest.xml:26:5-110
+MERGED from [:com.google.android.gms.play-services-measurement-sdk-api-17.0.0:] /Users/skunk/.gradle/caches/transforms-2/files-2.1/680addff4b8d0aad998001fb1dce57fc/AndroidManifest.xml:26:5-110
+	android:name
+		ADDED from [:com.google.android.gms.play-services-measurement-17.0.0:] /Users/skunk/.gradle/caches/transforms-2/files-2.1/84bb361df120c6b62d7060db41231b07/AndroidManifest.xml:26:22-107
+receiver#com.google.android.gms.measurement.AppMeasurementReceiver
+ADDED from [:com.google.android.gms.play-services-measurement-17.0.0:] /Users/skunk/.gradle/caches/transforms-2/files-2.1/84bb361df120c6b62d7060db41231b07/AndroidManifest.xml:29:9-33:20
+	android:enabled
+		ADDED from [:com.google.android.gms.play-services-measurement-17.0.0:] /Users/skunk/.gradle/caches/transforms-2/files-2.1/84bb361df120c6b62d7060db41231b07/AndroidManifest.xml:31:13-35
+	android:exported
+		ADDED from [:com.google.android.gms.play-services-measurement-17.0.0:] /Users/skunk/.gradle/caches/transforms-2/files-2.1/84bb361df120c6b62d7060db41231b07/AndroidManifest.xml:32:13-37
+	android:name
+		ADDED from [:com.google.android.gms.play-services-measurement-17.0.0:] /Users/skunk/.gradle/caches/transforms-2/files-2.1/84bb361df120c6b62d7060db41231b07/AndroidManifest.xml:30:13-85
+receiver#com.google.android.gms.measurement.AppMeasurementInstallReferrerReceiver
+ADDED from [:com.google.android.gms.play-services-measurement-17.0.0:] /Users/skunk/.gradle/caches/transforms-2/files-2.1/84bb361df120c6b62d7060db41231b07/AndroidManifest.xml:34:9-42:20
+MERGED from [:com.google.android.gms.play-services-measurement-impl-17.0.0:] /Users/skunk/.gradle/caches/transforms-2/files-2.1/3007755c57361496ee2c1fea2e71a254/AndroidManifest.xml:29:9-37:20
+MERGED from [:com.google.android.gms.play-services-measurement-impl-17.0.0:] /Users/skunk/.gradle/caches/transforms-2/files-2.1/3007755c57361496ee2c1fea2e71a254/AndroidManifest.xml:29:9-37:20
+MERGED from [:com.google.android.gms.play-services-measurement-sdk-api-17.0.0:] /Users/skunk/.gradle/caches/transforms-2/files-2.1/680addff4b8d0aad998001fb1dce57fc/AndroidManifest.xml:29:9-37:20
+MERGED from [:com.google.android.gms.play-services-measurement-sdk-api-17.0.0:] /Users/skunk/.gradle/caches/transforms-2/files-2.1/680addff4b8d0aad998001fb1dce57fc/AndroidManifest.xml:29:9-37:20
+	android:enabled
+		ADDED from [:com.google.android.gms.play-services-measurement-17.0.0:] /Users/skunk/.gradle/caches/transforms-2/files-2.1/84bb361df120c6b62d7060db41231b07/AndroidManifest.xml:36:13-35
+	android:exported
+		ADDED from [:com.google.android.gms.play-services-measurement-17.0.0:] /Users/skunk/.gradle/caches/transforms-2/files-2.1/84bb361df120c6b62d7060db41231b07/AndroidManifest.xml:37:13-36
+	android:permission
+		ADDED from [:com.google.android.gms.play-services-measurement-17.0.0:] /Users/skunk/.gradle/caches/transforms-2/files-2.1/84bb361df120c6b62d7060db41231b07/AndroidManifest.xml:38:13-69
+	android:name
+		ADDED from [:com.google.android.gms.play-services-measurement-17.0.0:] /Users/skunk/.gradle/caches/transforms-2/files-2.1/84bb361df120c6b62d7060db41231b07/AndroidManifest.xml:35:13-100
+intent-filter#action:name:com.android.vending.INSTALL_REFERRER
+ADDED from [:com.google.android.gms.play-services-measurement-17.0.0:] /Users/skunk/.gradle/caches/transforms-2/files-2.1/84bb361df120c6b62d7060db41231b07/AndroidManifest.xml:39:13-41:29
+action#com.android.vending.INSTALL_REFERRER
+ADDED from [:com.google.android.gms.play-services-measurement-17.0.0:] /Users/skunk/.gradle/caches/transforms-2/files-2.1/84bb361df120c6b62d7060db41231b07/AndroidManifest.xml:40:17-79
+	android:name
+		ADDED from [:com.google.android.gms.play-services-measurement-17.0.0:] /Users/skunk/.gradle/caches/transforms-2/files-2.1/84bb361df120c6b62d7060db41231b07/AndroidManifest.xml:40:25-76
+service#com.google.android.gms.measurement.AppMeasurementService
+ADDED from [:com.google.android.gms.play-services-measurement-17.0.0:] /Users/skunk/.gradle/caches/transforms-2/files-2.1/84bb361df120c6b62d7060db41231b07/AndroidManifest.xml:44:9-47:40
+	android:enabled
+		ADDED from [:com.google.android.gms.play-services-measurement-17.0.0:] /Users/skunk/.gradle/caches/transforms-2/files-2.1/84bb361df120c6b62d7060db41231b07/AndroidManifest.xml:46:13-35
+	android:exported
+		ADDED from [:com.google.android.gms.play-services-measurement-17.0.0:] /Users/skunk/.gradle/caches/transforms-2/files-2.1/84bb361df120c6b62d7060db41231b07/AndroidManifest.xml:47:13-37
+	android:name
+		ADDED from [:com.google.android.gms.play-services-measurement-17.0.0:] /Users/skunk/.gradle/caches/transforms-2/files-2.1/84bb361df120c6b62d7060db41231b07/AndroidManifest.xml:45:13-84
+service#com.google.android.gms.measurement.AppMeasurementJobService
+ADDED from [:com.google.android.gms.play-services-measurement-17.0.0:] /Users/skunk/.gradle/caches/transforms-2/files-2.1/84bb361df120c6b62d7060db41231b07/AndroidManifest.xml:48:9-52:72
+	android:enabled
+		ADDED from [:com.google.android.gms.play-services-measurement-17.0.0:] /Users/skunk/.gradle/caches/transforms-2/files-2.1/84bb361df120c6b62d7060db41231b07/AndroidManifest.xml:50:13-35
+	android:exported
+		ADDED from [:com.google.android.gms.play-services-measurement-17.0.0:] /Users/skunk/.gradle/caches/transforms-2/files-2.1/84bb361df120c6b62d7060db41231b07/AndroidManifest.xml:51:13-37
+	android:permission
+		ADDED from [:com.google.android.gms.play-services-measurement-17.0.0:] /Users/skunk/.gradle/caches/transforms-2/files-2.1/84bb361df120c6b62d7060db41231b07/AndroidManifest.xml:52:13-69
+	android:name
+		ADDED from [:com.google.android.gms.play-services-measurement-17.0.0:] /Users/skunk/.gradle/caches/transforms-2/files-2.1/84bb361df120c6b62d7060db41231b07/AndroidManifest.xml:49:13-87
+uses-library#org.apache.http.legacy
+ADDED from [:GoogleMobileAdsPlugin] /Users/skunk/Desktop/ゲーム/OKARUTO-OTENTEN/okaruto-otenten/Temp/gradleOut/GoogleMobileAdsPlugin/build/intermediates/library_manifest/release/AndroidManifest.xml:10:9-12:40
+	android:required
+		ADDED from [:GoogleMobileAdsPlugin] /Users/skunk/Desktop/ゲーム/OKARUTO-OTENTEN/okaruto-otenten/Temp/gradleOut/GoogleMobileAdsPlugin/build/intermediates/library_manifest/release/AndroidManifest.xml:12:13-37
+	android:name
+		ADDED from [:GoogleMobileAdsPlugin] /Users/skunk/Desktop/ゲーム/OKARUTO-OTENTEN/okaruto-otenten/Temp/gradleOut/GoogleMobileAdsPlugin/build/intermediates/library_manifest/release/AndroidManifest.xml:11:13-50
+meta-data#com.google.android.gms.ads.APPLICATION_ID
+ADDED from [:GoogleMobileAdsPlugin] /Users/skunk/Desktop/ゲーム/OKARUTO-OTENTEN/okaruto-otenten/Temp/gradleOut/GoogleMobileAdsPlugin/build/intermediates/library_manifest/release/AndroidManifest.xml:14:9-16:70
+	android:value
+		ADDED from [:GoogleMobileAdsPlugin] /Users/skunk/Desktop/ゲーム/OKARUTO-OTENTEN/okaruto-otenten/Temp/gradleOut/GoogleMobileAdsPlugin/build/intermediates/library_manifest/release/AndroidManifest.xml:16:13-67
+	android:name
+		ADDED from [:GoogleMobileAdsPlugin] /Users/skunk/Desktop/ゲーム/OKARUTO-OTENTEN/okaruto-otenten/Temp/gradleOut/GoogleMobileAdsPlugin/build/intermediates/library_manifest/release/AndroidManifest.xml:15:13-69

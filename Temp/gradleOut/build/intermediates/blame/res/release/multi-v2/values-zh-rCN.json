@@ -1,0 +1,60 @@
+{
+    "logs": [
+        {
+            "outputFile": "/Users/skunk/Desktop/ゲーム/OKARUTO-OTENTEN/okaruto-otenten/Temp/gradleOut/build/intermediates/incremental/mergeReleaseResources/merged.dir/values-zh-rCN/values-zh-rCN.xml",
+            "map": [
+                {
+                    "source": "/Users/skunk/.gradle/caches/transforms-2/files-2.1/49c6f273d1d85b1c6c28899cdf4e296a/res/values-zh-rCN/values-zh-rCN.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    },
+                    "to": {
+                        "startLines": "10",
+                        "startColumns": "4",
+                        "startOffsets": "741",
+                        "endColumns": "100",
+                        "endOffsets": "837"
+                    }
+                },
+                {
+                    "source": "/Users/skunk/.gradle/caches/transforms-2/files-2.1/44ec28eb42e80b08f8ed42f467ca1a89/res/values-zh-rCN/values.xml",
+                    "from": {
+                        "startLines": "4",
+                        "startColumns": "0",
+                        "startOffsets": "251",
+                        "endColumns": "157",
+                        "endOffsets": "408"
+                    },
+                    "to": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "105",
+                        "endColumns": "157",
+                        "endOffsets": "258"
+                    }
+                },
+                {
+                    "source": "/Users/skunk/.gradle/caches/transforms-2/files-2.1/68283badd9b26f59c7260c6bb5b075de/res/values-zh-rCN/values.xml",
+                    "from": {
+                        "startLines": "4,5,6,7,8,9,10",
+                        "startColumns": "0,0,0,0,0,0,0",
+                        "startOffsets": "201,262,335,395,455,519,589",
+                        "endColumns": "60,72,59,59,63,69,61",
+                        "endOffsets": "261,334,394,454,518,588,650"
+                    },
+                    "to": {
+                        "startLines": "3,4,5,6,7,8,9",
+                        "startColumns": "4,4,4,4,4,4,4",
+                        "startOffsets": "263,328,405,469,533,601,675",
+                        "endColumns": "64,76,63,63,67,73,65",
+                        "endOffsets": "323,400,464,528,596,670,736"
+                    }
+                }
+            ]
+        }
+    ]
+}
